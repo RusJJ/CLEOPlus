@@ -17,6 +17,5 @@ https://library.sannybuilder.com/#/sa/CLEO%2B
 Give suggestions:  
 https://forum.mixmods.com.br/f16-utilidades/t2878-sugestoes-cleo-moonloader
 
-# Some additional info
-This is the latest source code of CLEOPlus under a **working** MIT License
-You're free to use this exact source code as you want, just keep the license with it.
+## Some additional info
+This is the latest source code of CLEOPlus v1.2.0 under a **working** MIT License. You're free to use this exact source code as you want, just keep the license with it.
